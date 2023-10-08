@@ -1,25 +1,25 @@
 /*Navbar*/
 .navbar {
-    background-color: #353a40;
+  background-color: #353a40;
 }
 .navbar-collapse {
-    text-align: center;
-    justify-content: space-between;
+  text-align: center;
+  justify-content: space-between;
 }
 /*Carousel*/
 .opacidad-img {
-    filter: brightness(0.4);
+  filter: brightness(0.4);
 }
 .carousel-caption .container {
 
 }
 /*Horizontal card*/
 .h-card {
-    background-color: #353a40;
+  background-color: #353a40;
 }
 /*Form*/
 .f-button {
-    background-color: #4CAF50;
+  background-color: #4CAF50;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -29,10 +29,10 @@
   font-size: 16px;
 }
 .linea-punteada {
-    text-decoration: underline;
-    text-decoration-style: dotted;
+  text-decoration: underline;
+  text-decoration-style: dotted;
 }
 /*Footer*/
 footer {
-    background: linear-gradient(90deg, rgba(28,56,70,1) 0%, rgba(30,68,91,1) 50%, rgba(30,83,114,1) 100%);
+  background: linear-gradient(90deg, rgba(28,56,70,1) 0%, rgba(30,68,91,1) 50%, rgba(30,83,114,1) 100%);
 }
